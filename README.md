@@ -16,4 +16,4 @@ This Repo consists of the following files :
 <br>
 
 
-- supports mac
+- can be used for any repository
