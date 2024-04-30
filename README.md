@@ -1,4 +1,4 @@
-# Fire_detection_using_YOLO
+# fire_detection_using_yolo
 This Repo consists of the following files :
 - .git
 - fire.yaml
